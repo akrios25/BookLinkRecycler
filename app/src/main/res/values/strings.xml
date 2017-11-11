@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookLinksRecycler</string>
+    <string name="isaac_asimov"><a href="https://en.wikipedia.org/wiki/Foundation_(Asimov_novel)">Isaac Asimov</a></string>
+    <string name="hp_lovecraft"><a href="https://en.wikipedia.org/wiki/Necronomicon">H. P. Lovecraft</a></string>
+    <string name="neil_gaiman"><a href="http://sandman.wikia.com/wiki/Overture">Neil Gaiman</a></string>
+    <string name="michael_harner"><a href="https://www.amazon.com/Way-Shaman-Michael-Harner/dp/0062503731">Michael Harner</a></string>
+</resources>
